@@ -1,4 +1,4 @@
 db.users.insert({
-    name:"ulbitv",
-    age:25
+    name:"ivan",
+    age:20
 })
