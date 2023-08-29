@@ -1,0 +1,4 @@
+db.users.insert({
+    name:"ulbitv",
+    age:25
+})
